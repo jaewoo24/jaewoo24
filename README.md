@@ -33,13 +33,13 @@
 #
 <div align=left>
 
-![ym1085](https://github-readme-stats.vercel.app/api?username=ym1085&show_icons=true&layout=compact&theme=blue-green)
+![jaewoo24](https://github-readme-stats.vercel.app/api?username=jaewoo24&show_icons=true&layout=compact&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ym1085&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoo24&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
    
 #
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nobody_93__/?hl=ko)](https://www.instagram.com/nobody_93__/?hl=ko) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngmin1085@gmail.com)](mailto:youngmin1085@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fym1085&count_bg=%2379C83D&title_bg=%23D5D337&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
+[![Instagram Badge]() 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaewoo24@gmail.com)](mailto:jaewoo24@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaewoo24&count_bg=%2379C83D&title_bg=%23D5D337&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
   
 </div>
