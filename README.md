@@ -1,11 +1,10 @@
-## 😀 Hello! I'm YoungMinKim
+## 😀 Hello! I'm JaeWoo Jeong
 
-- If you are interested in [me](https://www.notion.so/Kim-YoungMin-Tech-Profile-e685e286aa6a4f559c5564351725f271)
+- If you are interested in [me]()
 
 ### Java BackEnd Developer
 
-- 🏦 Currently, I work in Funin (2021.12 ~ ing)
-- 🏢 Previously, I worked for GameDex (2020.04 ~ 2021.06)
+- 🏦 Currently, I work in Funin (2021.04 ~ ing)
 
 ### Interest
 
@@ -38,7 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoo24&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
    
 #
-[![Instagram Badge]() 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaewoo24@gmail.com)](mailto:jaewoo24@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaewoo24&count_bg=%2379C83D&title_bg=%23D5D337&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
   
